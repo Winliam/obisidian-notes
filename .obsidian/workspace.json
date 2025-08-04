@@ -11,14 +11,14 @@
             "id": "046e094c7a226c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Transformer.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Transformer"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Transformer 的出链列表"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Transformer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Transformer 的大纲"
             }
           },
           {
@@ -178,8 +180,8 @@
   },
   "active": "046e094c7a226c9b",
   "lastOpenFiles": [
-    "欢迎.md",
     "Transformer.md",
+    "欢迎.md",
     "2025-07-26.md",
     "未命名.canvas"
   ]
