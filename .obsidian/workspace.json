@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60fb0d5f65509da7",
+        "id": "2026382c11a6bd9f",
         "type": "tabs",
         "children": [
           {
-            "id": "046e094c7a226c9b",
+            "id": "4708d47c244698d5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "LSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "LSS"
             }
           }
         ]
@@ -178,9 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "046e094c7a226c9b",
+  "active": "4708d47c244698d5",
   "lastOpenFiles": [
+    "BevFormer.md",
+    "LSS.md",
+    "GlobalMapNet.md",
+    "RNN.md",
     "Transformer.md",
+    "ViT.md",
+    "MapTR.md",
+    "DETR.md",
+    "Deformable DETR.md",
+    "DCN.md",
     "欢迎.md",
     "2025-07-26.md",
     "未命名.canvas"
