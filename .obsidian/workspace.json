@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LSS.md",
+                "file": "DETR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSS"
+              "title": "DETR"
             }
           }
         ]
@@ -180,13 +180,13 @@
   },
   "active": "4708d47c244698d5",
   "lastOpenFiles": [
-    "BevFormer.md",
-    "LSS.md",
-    "GlobalMapNet.md",
-    "RNN.md",
     "Transformer.md",
     "ViT.md",
+    "RNN.md",
+    "BevFormer.md",
     "MapTR.md",
+    "LSS.md",
+    "GlobalMapNet.md",
     "DETR.md",
     "Deformable DETR.md",
     "DCN.md",
