@@ -1,0 +1,12 @@
+/* 限制所有 Mermaid 图表最大宽度为 80%，并居中显示 */
+.markdown-preview-view .mermaid {
+  max-width: 80% !important;
+  margin: 0 auto !important;
+  height: auto !important;
+  overflow: auto !important;
+}
+
+/* 针对深色模式适配 */
+.theme-dark .mermaid svg {
+  background-color: #2e3440 !important; /* 深色背景 */
+}
