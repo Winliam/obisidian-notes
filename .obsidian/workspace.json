@@ -11,10 +11,14 @@
             "id": "9ea45ee506307242",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Deformable DETR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deformable DETR"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fd39e39d7ec24c58",
@@ -177,9 +180,9 @@
   },
   "active": "9ea45ee506307242",
   "lastOpenFiles": [
-    "DCN.md",
-    "Deformable DETR.md",
     "DETR.md",
+    "Deformable DETR.md",
+    "DCN.md",
     "GlobalMapNet.md",
     "LSS.md",
     "RNN.md",
