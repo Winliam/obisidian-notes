@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/乘法/万粉感言_MR Dang_2026-01-26/index.md",
+                "file": "知乎/乘法/十万粉感言_MR Dang_2026-02-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "十万粉感言_MR Dang_2026-02-01"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -180,32 +181,52 @@
   },
   "active": "e0da204a23cd621c",
   "lastOpenFiles": [
-    "知乎/乘法/万粉感言_MR Dang_2026-01-26/assets/v2-2b7e64f732b793ac0c7323e9d71c9499.webp",
-    "知乎/乘法/万粉感言_MR Dang_2026-01-26/index.md",
-    "知乎/如何看待2026年2月26日A股市场行情？_MR Dang_2026-02-26.md",
+    "知乎/乘法/如何看待2026年2月26日A股市场行情？_MR Dang_2026-02-26.md",
+    "知乎/乘法/assets/v2-dd8346e75191658f9dcc2fb69b40de17_b.jpg",
+    "知乎/乘法/assets/v2-d390e815d4770608974731b45156c996_b.jpg",
+    "知乎/乘法/assets/v2-9ed85464fc14f0372f86518014f38bb6_b.jpg",
+    "知乎/乘法/assets/v2-4f8c9ed8088bcc2715e3b4ee76c3aad1_b.jpg",
+    "知乎/乘法/assets/v2-001663e98c7ae3841aaad11dba9f14be_b.jpg",
+    "知乎/乘法/assets/v2-a5c437c7b3f177f5daa776d0f77f67ed_b.jpg",
+    "知乎/乘法/assets/v2-086301b2a81bbe4e3d9a789c7b2be1d0_b.jpg",
+    "知乎/乘法/assets/v2-77131f0f148da392ad264c1ff2c79b57_b.jpg",
+    "知乎/乘法/assets/v2-0f8c06bb61164bb0cd34370a8eb3b160_b.jpg",
+    "知乎/乘法/assets/v2-314dff0991194abf0de2618be1c0270b_b.jpg",
+    "知乎/乘法/如何评价2026年2月25日A股行情？_MR Dang_2026-02-25.md",
+    "知乎/乘法/迎财神_MR Dang_2026-02-21.md",
+    "知乎/乘法/丙午除夕致股海诸君贺岁_MR Dang_2026-02-16.md",
+    "知乎/乘法/春节特辑2(年二十八）_MR Dang_2026-02-15.md",
+    "知乎/乘法/春节特辑（年二十七）_MR Dang_2026-02-14.md",
+    "知乎/乘法/对2026年2月13日A股市场行情，大家有什么预测和看法？_MR Dang_2026-02-13.md",
+    "知乎/乘法/对2026年2月12日A股市场行情，大家有什么看法？_MR Dang_2026-02-12.md",
+    "知乎/乘法/如何评价2026年2月11日A股行情？_MR Dang_2026-02-11.md",
+    "知乎/乘法/如何看待2026年2月10日A股市场行情？_MR Dang_2026-02-10.md",
+    "知乎/乘法/如何评价2026年2月9日A股行情？_MR Dang_2026-02-09.md",
+    "知乎/乘法/周末闲聊(2月8日）_MR Dang_2026-02-08.md",
+    "知乎/乘法/周末唠嗑（2月7）_MR Dang_2026-02-07.md",
+    "知乎/乘法/如何评价2026年2月6日A股行情？_MR Dang_2026-02-06.md",
+    "知乎/乘法/如何看待2026年2月5日A股市场？_MR Dang_2026-02-05.md",
+    "知乎/乘法/如何评价2026年2月4日A股行情？_MR Dang_2026-02-04.md",
+    "知乎/乘法/如何看待2026年2月3日A股行情？_MR Dang_2026-02-03.md",
+    "知乎/乘法/如何评价2026年2月2日A股行情？_MR Dang_2026-02-02.md",
+    "知乎/乘法/周末扯犊子_MR Dang_2026-01-31.md",
+    "知乎/乘法/如何评价2026年1月30日A股市场行情？_MR Dang_2026-01-30.md",
+    "知乎/乘法/如何看待2026年1月29日A股行情？_MR Dang_2026-01-29.md",
+    "知乎/乘法/如何看待2026年1月28日的A股市场行情走势？_MR Dang_2026-01-28.md",
+    "知乎/乘法/想法：止盈变态组合算了下，这个组合不到30％，主要是_MR Dang_2026-01-27.md",
+    "知乎/乘法/如何看待2026年1月26日A股行情？_MR Dang_2026-01-26.md",
+    "知乎/乘法/想法：有可能的套利机会现在可以挂隔夜单，明天九点二十_MR Dang_2026-01-25.md",
+    "知乎/乘法/周末闲聊&自我封印一天（1月24日）_MR Dang_2026-01-24.md",
+    "知乎/乘法/周末再次闲聊_MR Dang_2025-11-29.md.crswap",
+    "知乎/乘法/想法：某湖止盈文章还没写出来，就到止盈线了。怕有抄_MR Dang_2025-11-13.md.crswap",
+    "感知/经典模型",
+    "感知",
+    "感知/经典问题",
+    "新建文件夹",
     "知乎/乘法/万粉感言_MR Dang_2026-01-26/assets/v2-2b7e64f732b793ac0c7323e9d71c9499.webp.crswap",
     "知乎/乘法/万粉感言_MR Dang_2026-01-26/assets",
     "知乎/乘法/万粉感言_MR Dang_2026-01-26",
     "知乎/乘法",
-    "知乎/万粉感言.md",
-    "知乎/投资新手避坑指南之追热点(万粉特别奉献)_MR Dang_2025-10-16.md",
-    "知乎/assets",
-    "BevFormer.md",
-    "知乎/如何看待2026年2月26日A股市场行情？_MR Dang_2026-02-26.md.crswap",
-    "知乎",
-    "Deformable DETR.md",
-    "LSS.md",
-    "GlobalMapNet.md",
-    "DETR.md",
-    "lss.png",
-    "MapTR.md",
-    "RNN.md",
-    "Transformer.md",
-    "ViT.md",
-    "DCN.md",
-    "2025-08-17.md",
-    "未命名.canvas",
-    "欢迎.md",
-    "2025-07-26.md"
+    "未命名.canvas"
   ]
 }
